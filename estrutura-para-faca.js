@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 function acaoBotao() {
     var numero, fatorial
     numero = prompt("Digite o número para calcular o fatorial.")
